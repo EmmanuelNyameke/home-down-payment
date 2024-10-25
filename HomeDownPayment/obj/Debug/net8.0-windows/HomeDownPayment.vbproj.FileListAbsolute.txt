@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\HomeDownPayment\bin\Debug\net8.0-windows\HomeDownPayment.exe
+C:\Users\HELLO\Source\Repos\HomeDownPayment\bin\Debug\net8.0-windows\HomeDownPayment.deps.json
+C:\Users\HELLO\Source\Repos\HomeDownPayment\bin\Debug\net8.0-windows\HomeDownPayment.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\HomeDownPayment\bin\Debug\net8.0-windows\HomeDownPayment.dll
+C:\Users\HELLO\Source\Repos\HomeDownPayment\bin\Debug\net8.0-windows\HomeDownPayment.pdb
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.frmHome.resources
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.Resources.resources
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.dll
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\refint\HomeDownPayment.dll
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.pdb
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\HomeDownPayment.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\HomeDownPayment\obj\Debug\net8.0-windows\ref\HomeDownPayment.dll
